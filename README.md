@@ -1,4 +1,4 @@
-Automation Testing Report
+
 Project Name:
 PRODUCT STORE – DemoBlaze E-Commerce Website
 Introduction:
